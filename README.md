@@ -1,1 +1,1 @@
-# terraform-kubectl-image
+Docker image
